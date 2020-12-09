@@ -1,1 +1,0 @@
-potionrepeater.jar: A plugin that causes every player on the server to have a random potion effect every minute that lasts one minute
