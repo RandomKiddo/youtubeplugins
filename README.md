@@ -12,7 +12,7 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 1. [Potion Repeater (potionrepeater.jar)](#potion-repeater-(potionrepeater.jar))
 2. [License](#license)
 
-##### Potion Repeater (potionrepeater.jar)
+### Potion Repeater (potionrepeater.jar)
 
 PotionRepeater is a client-side plugin that randomly applies a random potion effect to the player (not fully tested for multiple players, but should theoretically work) every minute. You may check the source file to edit and create a new jar.
 
@@ -23,7 +23,7 @@ Start Command: /startpotions <br>
 StopCommand: /stoppotions <br>
 Reload Recommended Before Start Command: :white_check_mark:
 
-##### License
+### License
 
 MIT License
 
