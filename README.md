@@ -16,11 +16,11 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 
 PotionRepeater is a client-side plugin that randomly applies a random potion effect to the player (not fully tested for multiple players, but should theoretically work) every minute. You may check the source file to edit and create a new jar.
 
-Intended Server Host: Bukkit (CraftBukkit)
-Intended Version: 1.16.4
-Multiplayer: :x: (Untested, Should Work Theoretically)
-Start Command: /startpotions
-StopCommand: /stoppotions
+Intended Server Host: Bukkit (CraftBukkit) <br>
+Intended Version: 1.16.4 <br>
+Multiplayer: :x: (Untested, Should Work Theoretically) <br>
+Start Command: /startpotions <br>
+StopCommand: /stoppotions <br>
 Reload Recommended Before Start Command: :white_check_mark:
 
 ##### License
