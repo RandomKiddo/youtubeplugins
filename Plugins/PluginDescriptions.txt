@@ -1,1 +1,1 @@
-potionrepeater.jar: A plugin that causes every player on the server to have a random potion effect every minute that lasts one minute
+potionrepeater.jar: A plugin that causes every player on the server to have a random potion effect every minute that lasts one minute: Version Bukkit 1.16.4
