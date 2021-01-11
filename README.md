@@ -1,9 +1,11 @@
 # YouTube Plugins - README.md
 
-The `youtubeplugins` repository is a free-use repository under the MIT License (See `License` section for more details). <br>
-All of the plugins here can be downloaded for free for use with your own hosted server. Please check this README or the `PluginDescriptions` text file for more information on what files correspond to what, and their respective versions. <br> <br>
+The `youtubeplugins` repository is a free-use repository under the MIT License (See [License](#license) section for more details). You may do whatever you wish with the jar or source code, but please give credit if possible! :) <br>
+All of the plugins here can be downloaded for free for use with your own hosted server. Please check this README or the `PluginDescriptions.txt` file for more information on what files correspond to what, and their respective versions. <br> <br>
 
 Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) server jar unless otherwise stated (Paper or Spigot will be stated separately)
+
+All of these plugins were created in Java by the Eclipse Workspace solely for Minecraft purposes.
 
 ### Table of Contents
 
@@ -11,6 +13,15 @@ Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) 
 2. [License](#license)
 
 ##### Potion Repeater (potionrepeater.jar)
+
+PotionRepeater is a client-side plugin that randomly applies a random potion effect to the player (not fully tested for multiple players, but should theoretically work) every minute. You may check the source file to edit and create a new jar.
+
+Intended Server Host: Bukkit (CraftBukkit)
+Intended Version: 1.16.4
+Multiplayer: :x: (Untested, Should Work Theoretically)
+Start Command: /startpotions
+StopCommand: /stoppotions
+Reload Recommended Before Start Command: :white_check_mark:
 
 ##### License
 
