@@ -29,3 +29,5 @@ This repository and its owners are in no way liable of any damage, corruption, o
 ### Running Under Non-Standard Conditions
 
 This repository and its owners are in no way liable of any damage, corruption, or errors that occur when a plugin is run in conditions that it was not meant to run in (ie running Spigot instead of Bukkit, etc.). No issues may be opened on this repository about errors that occurred under non-standard conditions, and this repository and its owners have no obligation to do anything about any issue related to a plugin being run under non-standard conditions.
+
+<sub>This page was last edited on 01/11/21 @ 5:35PM</sub>
