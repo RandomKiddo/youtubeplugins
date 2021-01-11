@@ -10,7 +10,8 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 ### Table of Contents
 
 1. [Potion Repeater (potionrepeater.jar)](#potion-repeater-(potionrepeater.jar))
-2. [License](#license)
+2. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
+3. [License](#license)
 
 ### Potion Repeater (potionrepeater.jar)
 
@@ -22,6 +23,12 @@ Multiplayer: :x: (Untested, Should Work Theoretically) <br>
 Start Command: /startpotions <br>
 StopCommand: /stoppotions <br>
 Reload Recommended Before Start Command: :white_check_mark:
+
+### Source Code and Jar File Usage Guidelines
+
+As specified by the MIT License, this repository is free use. Feel free to download any file here and use it as you wish, or fork the repository and do what you want after that, all free of charge! The jar files can be downloaded and used in your Minecraft worlds, or you can download the source code files in the folder and edit them if you wish. 
+
+Please note that this repository is not responsible for any issues caused by editing the source code. Also, the source code package names will need to be changed according to your Eclipse Workspace Maven Project. This repository will not resolve any issues with trying to edit the jar or the source code; the `Issues` tab is solely meant for errors and bugs with the "as is" code seen in this repository. 
 
 ### License
 
