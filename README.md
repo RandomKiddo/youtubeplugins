@@ -34,7 +34,7 @@ Please note that this repository is not responsible for any issues caused by edi
 
 MIT License
 
-Copyright (c) 2020, 2021 Neil
+Copyright (c) 2020, 2021 RandomKiddo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -54,4 +54,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-<sub>This page was last edited on 01/11/21 @ 5:35PM</sub>
+<sub>This page was last edited on 01/12/21 @ 9:59AM</sub>
