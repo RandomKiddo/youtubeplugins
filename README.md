@@ -9,11 +9,11 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 
 ### Table of Contents
 
-1. [Potion Repeater (potionrepeater.jar)](#potion-repeater-(potionrepeater.jar))
+1. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
 2. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
 3. [License](#license)
 
-### Potion Repeater (potionrepeater.jar)
+### Potion Repeater
 
 PotionRepeater is a client-side plugin that randomly applies a random potion effect to the player (not fully tested for multiple players, but should theoretically work) every minute. You may check the source file to edit and create a new jar.
 
