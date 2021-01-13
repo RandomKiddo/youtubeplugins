@@ -1,6 +1,6 @@
 # YouTube Plugins - README.md
 
-The `youtubeplugins` repository is a free-use repository under the MIT License (See [License](#license) section for more details). You may do whatever you wish with the jar or source code, but please give credit if possible! :) <br>
+The `youtubeplugins` repository is a free-use repository under the GNU GPLv3 License (See [License](#license) section for more details, or [License Details](#license-details) for an abbreviated version). You may do whatever you wish with the jar or source code, but please give credit if possible! :) <br>
 All of the plugins here can be downloaded for free for use with your own hosted server. Please check this README or the `PluginDescriptions.txt` file for more information on what files correspond to what, and their respective versions. <br> <br>
 
 Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) server jar unless otherwise stated (Paper or Spigot will be stated separately)
@@ -11,7 +11,8 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 
 1. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
 2. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
-3. [License](#license)
+3. [License Details](#license-details)
+4. [License](#license)
 
 ### Potion Repeater
 
@@ -26,9 +27,13 @@ Reload Recommended Before Start Command: :white_check_mark:
 
 ### Source Code and Jar File Usage Guidelines
 
-As specified by the MIT License, this repository is free use. Feel free to download any file here and use it as you wish, or fork the repository and do what you want after that, all free of charge! The jar files can be downloaded and used in your Minecraft worlds, or you can download the source code files in the folder and edit them if you wish. 
+As specified by the GNU GPLv3 License, this repository is free use. Feel free to download any file here and use it as you wish, or fork the repository and do what you want after that, all free of charge! The jar files can be downloaded and used in your Minecraft worlds, or you can download the source code files in the folder and edit them if you wish. 
 
 Please note that this repository is not responsible for any issues caused by editing the source code. Also, the source code package names will need to be changed according to your Eclipse Workspace Maven Project. This repository will not resolve any issues with trying to edit the jar or the source code; the `Issues` tab is solely meant for errors and bugs with the "as is" code seen in this repository. 
+
+### License Details
+
+This repository is protected by the GNU GPLv3 License for any content created in the 2020-2021 timeline. The GNU GPLv3 License states that this repository is free-to-use, either commercially or privately, and all content within it can be modified and re-distributed. The license also gives explicit patent rights to this repository's owners. The GNU GPLv3 License also states that upon re-distribution of any modified content that pertains to this repository, said distribution must be licensed under the same GNU GPLv3 License, the source code of the modified content must be released (aka open-source), the license file must be kept with the distribution, and all changes must be documented within the distribution.
 
 ### License
 
@@ -707,4 +712,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<sub>This page was last edited on 01/13/21 @ 2:32PM</sub>
+<sub>This page was last edited on 01/13/21 @ 2:39PM</sub>
