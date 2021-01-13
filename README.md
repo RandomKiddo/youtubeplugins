@@ -36,7 +36,7 @@ As specified by the GNU GPLv3 License, this repository is free use. Feel free to
 
 Please note that this repository is not responsible for any issues caused by editing the source code. Also, the source code package names will need to be changed according to your Eclipse Workspace Maven Project. This repository will not resolve any issues with trying to edit the jar or the source code; the `Issues` tab is solely meant for errors and bugs with the "as is" code seen in this repository. 
 
-Due to the fact that this repository is licensed by the GNU GPLv3 License, special requirements must be met upon re-distribution (if you choose to re-distributed modifications). See [License Details](#license-details) for more information.
+Due to the fact that this repository is licensed by the GNU GPLv3 License, special requirements must be met upon re-distribution (if you choose to re-distribute modifications). See [License Details](#license-details) for more information.
 
 ### License Details
 
@@ -719,4 +719,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<sub>This page was last edited on 01/13/21 @ 2:47PM</sub>
+<sub>This page was last edited on 01/13/21 @ 2:48PM</sub>
