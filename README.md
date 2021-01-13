@@ -9,10 +9,15 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 
 ### Table of Contents
 
-1. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
-2. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
-3. [License Details](#license-details)
-4. [License](#license)
+1. [How to Use](#how-to-use)
+2. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
+3. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
+4. [License Details](#license-details)
+5. [License](#license)
+
+### How to Use
+
+Navigate to the `Plugins` folder. In that folder, there should be a text file titled `PluginDescriptions.txt`; Skim through it and find which plugin you need and its corresponding jar file. Go to the folder labeled as the name of the jar file (For example `potionrepeater.jar` would be in the folder titled `Potion Repeater`. If you just want the plugin, download the `.jar` file in the folder. However, if you want the source code, download the `.java`, `pom.xml`, and `plugin.yml` files in said folder. For more information, this file, and more are in the `Wiki` tab.
 
 ### Potion Repeater
 
@@ -712,4 +717,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<sub>This page was last edited on 01/13/21 @ 2:39PM</sub>
+<sub>This page was last edited on 01/13/21 @ 2:45PM</sub>
