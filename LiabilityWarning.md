@@ -9,11 +9,12 @@ This repository is in no way liable for any damage caused during the changing of
 3. [Changing the Source Code](#changing-the-source-code)
 4. [Running A Different Version](#running-a-different-version)
 5. [Running Under Non-Standard Conditions](#running-under-non-standard-conditions)
+6. [License Details](#license-details)
 6. [License](#license)
 
 ### General Description
 
-This repository and its owners are in no way liable for any damage, corruption, or errors that occur when its contents are not used "as is". This repository and its owners have no obligation to resolve or respond to any issues regarding non-"as is" content. This repository and its owners also have no obligation to edit or upload any files that conform to the needs of the edited content. All open issues on this repository regarding edited files will be automatically closed; the `Issues` tab is meant for issues regarding to "as is" content. Under the MIT License, one may edit and use any files they like (and please give credit if possible :D), but this repository and its owners are removed from any contractual binding to fix, correct, or resolve anything that may occur in the process of editing content.
+This repository and its owners are in no way liable for any damage, corruption, or errors that occur when its contents are not used "as is". This repository and its owners have no obligation to resolve or respond to any issues regarding non-"as is" content. This repository and its owners also have no obligation to edit or upload any files that conform to the needs of the edited content. All open issues on this repository regarding edited files will be automatically closed; the `Issues` tab is meant for issues regarding to "as is" content. Under the GNU GPLv3 License, one may edit and use any files they like (and please give credit if possible :D), but this repository and its owners are removed from any contractual binding to fix, correct, or resolve anything that may occur in the process of editing content.
 
 ### Changing the Jar File
 
@@ -30,6 +31,10 @@ This repository and its owners are in no way liable of any damage, corruption, o
 ### Running Under Non-Standard Conditions
 
 This repository and its owners are in no way liable of any damage, corruption, or errors that occur when a plugin is run in conditions that it was not meant to run in (ie running Spigot instead of Bukkit, etc.). No issues may be opened on this repository about errors that occurred under non-standard conditions, and this repository and its owners have no obligation to do anything about any issue related to a plugin being run under non-standard conditions.
+
+### License Details
+
+This repository is protected by the GNU GPLv3 License for any content created in the 2020-2021 timeline. The GNU GPLv3 License states that this repository is free-to-use, either commercially or privately, and all content within it can be modified and re-distributed. The license also gives explicit patent rights to this repository's owners. The GNU GPLv3 License also states that upon re-distribution of any modified content that pertains to this repository, said distribution must be licensed under the same GNU GPLv3 License, the source code of the modified content must be released (aka open-source), the license file must be kept with the distribution, and all changes must be documented within the distribution.
 
 ### License
 
@@ -708,4 +713,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<sub>This page was last edited on 01/13/21 @ 2:33PM</sub>
+<sub>This page was last edited on 01/13/21 @ 2:55PM</sub>
