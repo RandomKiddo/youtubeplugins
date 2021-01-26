@@ -10,14 +10,29 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 ### Table of Contents
 
 1. [How to Use](#how-to-use)
-2. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
-3. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
-4. [License Details](#license-details)
-5. [License](#license)
+2. [Lookup Table](#lookup-table)
+3. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
+4. [Mob Shuffle (mobshuffle2.3.jar)](#mob-shuffle)
+5. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
+6. [License Details](#license-details)
+7. [License](#license)
 
 ### How to Use
 
 Navigate to the `Plugins` folder. In that folder, there should be a text file titled `PluginDescriptions.txt`; Skim through it and find which plugin you need and its corresponding jar file. Go to the folder labeled as the name of the jar file (For example `potionrepeater.jar` would be in the folder titled `Potion Repeater`. If you just want the plugin, download the `.jar` file in the folder. However, if you want the source code, download the `.java`, `pom.xml`, and `plugin.yml` files in said folder. For more information, this file, and more are in the `Wiki` tab.
+
+### Lookup Table
+
+| Plugin             | Server Host | Version | Multiplayer | Start Command    | Stop Command    | Reload Recommended |
+| ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
+| potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
+| mobshuffle2.3.jar  | Bukkit      | 1.16.4  | ✅ [NT]     | Not Applicable   | Not Applicable  | ✅                 |
+<br>
+
+**KEY**:
+
+NT: Not Tested <br >
+T: Theoretical; Should Work Theoretically
 
 ### Potion Repeater
 
@@ -27,8 +42,19 @@ Intended Server Host: Bukkit (CraftBukkit) <br>
 Intended Version: 1.16.4 <br>
 Multiplayer: :x: (Untested, Should Work Theoretically) <br>
 Start Command: /startpotions <br>
-StopCommand: /stoppotions <br>
-Reload Recommended Before Start Command: :white_check_mark:
+Stop Command: /stoppotions <br>
+Reload Recommended Before Start: :white_check_mark:
+
+### Mob Shuffle
+
+MobShuffle is a client-side plugin that passively "swaps" mob data, so that mobs will spawn a mob of a different type. For example, a zombie will always spawn a blaze, or a ghast will always spawn a creeper. To avoid lag, mobs such as fish, do not spawn other mobs (overloads the server). Also, many Minecraft items, such as item frames or minecarts, count as entities, which causes an error in the server because a mob cannot be spawned in its place nor can it spawn in a mob's place. This error was ignored when creating, but may need to be corrected for personal usage.
+
+Intended Server Host: Bukkit (CraftBukkit) <br>
+Intended Version: 1.16.4 <br>
+Multiplayer: ✅ (Untested, For Now) <br>
+Start Command: Not Applicable
+Stop Command: Not Applicable
+Reload Recommended Before Start: :white_check_mark:
 
 ### Source Code and Jar File Usage Guidelines
 
