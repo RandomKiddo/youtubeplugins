@@ -45,17 +45,6 @@ Start Command: /startpotions <br>
 Stop Command: /stoppotions <br>
 Reload Recommended Before Start: :white_check_mark:
 
-### Mob Shuffle
-
-MobShuffle is a client-side plugin that passively "swaps" mob data, so that mobs will spawn a mob of a different type. For example, a zombie will always spawn a blaze, or a ghast will always spawn a creeper. To avoid lag, mobs such as fish, do not spawn other mobs (overloads the server). Also, many Minecraft items, such as item frames or minecarts, count as entities, which causes an error in the server because a mob cannot be spawned in its place nor can it spawn in a mob's place. This error was ignored when creating, but may need to be corrected for personal usage.
-
-Intended Server Host: Bukkit (CraftBukkit) <br>
-Intended Version: 1.16.4 <br>
-Multiplayer: ✅ (Untested, For Now) <br>
-Start Command: Not Applicable
-Stop Command: Not Applicable
-Reload Recommended Before Start: :white_check_mark:
-
 ### Source Code and Jar File Usage Guidelines
 
 As specified by the GNU GPLv3 License, this repository is free use. Feel free to download any file here and use it as you wish, or fork the repository and do what you want after that, all free of charge! The jar files can be downloaded and used in your Minecraft worlds, or you can download the source code files in the folder and edit them if you wish. 
