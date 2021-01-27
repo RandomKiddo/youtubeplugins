@@ -12,11 +12,10 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 1. [How to Use](#how-to-use)
 2. [Lookup Table](#lookup-table)
 3. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
-4. [Mob Shuffle (mobshuffle2.3.jar)](#mob-shuffle)
-5. [Connections](#connections)
-6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
-7. [License Details](#license-details)
-8. [License](#license)
+4. [Connections](#connections)
+5. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
+6. [License Details](#license-details)
+7. [License](#license)
 
 ### How to Use
 
@@ -27,7 +26,6 @@ Navigate to the `Plugins` folder. In that folder, there should be a text file ti
 | Plugin             | Server Host | Version | Multiplayer | Start Command    | Stop Command    | Reload Recommended |
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
-| mobshuffle2.3.jar  | Bukkit      | 1.16.4  | ✅ [NT]     | Not Applicable   | Not Applicable  | ✅                 |
 <br>
 
 **KEY**:
@@ -64,6 +62,8 @@ Due to the fact that this repository is licensed by the GNU GPLv3 License, speci
 ### License Details
 
 This repository is protected by the GNU GPLv3 License for any content created in the 2020-2021 timeline. The GNU GPLv3 License states that this repository is free-to-use, either commercially or privately, and all content within it can be modified and re-distributed. The license also gives explicit patent rights to this repository's owners. The GNU GPLv3 License also states that upon re-distribution of any modified content that pertains to this repository, said distribution must be licensed under the same GNU GPLv3 License, the source code of the modified content must be released (aka open-source), the license file must be kept with the distribution, and all changes must be documented within the distribution.
+
+Also, the GNU GPLv3 License protects this repository's creators from liability. For more information, see [`LiabilityWarning.md`](https://github.com/RandomKiddo/youtubeplugins/blob/main/LiabilityWarning.md)
 
 ### License
 
@@ -742,4 +742,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<sub>This page was last edited on 01/13/21 @ 2:48PM</sub>
+<sub>This page was last edited on 01/27/21 @ 1:32PM</sub>
