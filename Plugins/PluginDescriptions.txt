@@ -1,2 +1,1 @@
 potionrepeater.jar (Bukkit 1.16.4): A plugin that causes every player on the server to have a random potion effect every minute that lasts one minute
-mobshuffle2.3.jar (Bukkit 1.16.4): A plugin that "swaps" mob data causing mobs to spawn as completely different mobs
