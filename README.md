@@ -19,7 +19,8 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 
 ### How to Use
 
-Navigate to the `Plugins` folder. In that folder, there should be a text file titled `PluginDescriptions.txt`; Skim through it and find which plugin you need and its corresponding jar file. Go to the folder labeled as the name of the jar file (For example `potionrepeater.jar` would be in the folder titled `Potion Repeater`. If you just want the plugin, download the `.jar` file in the folder. However, if you want the source code, download the `.java`, `pom.xml`, and `plugin.yml` files in said folder. For more information, this file, and more are in the `Wiki` tab.
+Navigate to the `Plugins` folder, and in that folder, find the file named `PluginDescriptions.md` (Quick Link : [Descriptions](https://github.com/RandomKiddo/youtubeplugins/blob/main/Plugins/PluginDescriptions.md)). Either by skimming, or using the table of contents,
+scroll to the plugin you need. In that sections, you should see the plugin name, a short description, version and server info, the name of the jar file, the name of the folder, and a quick link to the folder where the files are stored. Either by manually going to the folder named after the plugin, or by using the provided quick link, you will see a list of files in the folder. If you just want the plugin, click on the file ending in `.jar` and download it. From there you can put it in your server plugins folder and run it. If you want to edit the plugin, you can download any other `.java`, `.xml`, and `.yml` files. This repository and its creators are not responsible for anything that occurs when editing the plugin's source code. 
 
 ### Lookup Table
 
@@ -742,4 +743,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<sub>This page was last edited on 01/27/21 @ 1:32PM</sub>
+<sub>This page was last edited on 01/27/21 @ 1:47PM</sub>
