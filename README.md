@@ -13,9 +13,10 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 2. [Lookup Table](#lookup-table)
 3. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
 4. [Mob Shuffle (mobshuffle2.3.jar)](#mob-shuffle)
-5. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
-6. [License Details](#license-details)
-7. [License](#license)
+5. [Connections](#connections)
+6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
+7. [License Details](#license-details)
+8. [License](#license)
 
 ### How to Use
 
@@ -44,6 +45,13 @@ Multiplayer: :x: (Untested, Should Work Theoretically) <br>
 Start Command: /startpotions <br>
 Stop Command: /stoppotions <br>
 Reload Recommended Before Start: :white_check_mark:
+
+### Connections
+
+- [YouTube](https://www.youtube.com/channel/UCqORid7DP0chFER0SkjCb1A)
+- [Twitch](https://www.twitch.tv/notfirsttry)
+- [YouTube Archive](https://www.youtube.com/channel/UCvErjJxLRFq4t9d4iydRLVQ)
+- [Discord](https://discord.com/invite/Hg6aaqkzBy)
 
 ### Source Code and Jar File Usage Guidelines
 
