@@ -1,6 +1,6 @@
 # YouTube Plugins - README.md
 
-The `youtubeplugins` repository is a free-use repository under the GNU GPLv3 License (See [License](#license) section for more details, or [License Details](#license-details) for an abbreviated version). You may do whatever you wish with the jar or source code, but please give credit if possible! :) <br>
+The `youtubeplugins` repository is a free-use repository under the GNU GPLv3 License (See [License](#license) section for more details, or [License Details](#license-details) for an abbreviated version). You may do whatever you wish with the jar or source code, but please give credit if possible! :D <br>
 All of the plugins here can be downloaded for free for use with your own hosted server. Please check this README or the `PluginDescriptions.md` file for more information on what files correspond to what, and their respective versions. <br> <br>
 
 Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) server jar unless otherwise stated (Paper or Spigot will be stated separately)
@@ -78,7 +78,8 @@ Due to the fact that this repository is licensed by the GNU GPLv3 License, speci
 
 This repository is protected by the GNU GPLv3 License for any content created in the 2020-2021 timeline. The GNU GPLv3 License states that this repository is free-to-use, either commercially or privately, and all content within it can be modified and re-distributed. The license also gives explicit patent rights to this repository's owners. The GNU GPLv3 License also states that upon re-distribution of any modified content that pertains to this repository, said distribution must be licensed under the same GNU GPLv3 License, the source code of the modified content must be released (aka open-source), the license file must be kept with the distribution, and all changes must be documented within the distribution.
 
-Also, the GNU GPLv3 License protects this repository's creators from liability. For more information, see [`LiabilityWarning.md`](https://github.com/RandomKiddo/youtubeplugins/blob/main/LiabilityWarning.md)
+Also, the GNU GPLv3 License protects this repository's creators from liability. For more information, see [`LiabilityWarning.md`](https://github.com/RandomKiddo/youtubeplugins/blob/main/LiabilityWarning.md). This GNU GPLv3 License also protects this repository's creators from warranty
+claims.
 
 ### License
 
