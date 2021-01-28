@@ -1,11 +1,11 @@
 # YouTube Plugins - README.md
 
 The `youtubeplugins` repository is a free-use repository under the GNU GPLv3 License (See [License](#license) section for more details, or [License Details](#license-details) for an abbreviated version). You may do whatever you wish with the jar or source code, but please give credit if possible! :) <br>
-All of the plugins here can be downloaded for free for use with your own hosted server. Please check this README or the `PluginDescriptions.txt` file for more information on what files correspond to what, and their respective versions. <br> <br>
+All of the plugins here can be downloaded for free for use with your own hosted server. Please check this README or the `PluginDescriptions.md` file for more information on what files correspond to what, and their respective versions. <br> <br>
 
 Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) server jar unless otherwise stated (Paper or Spigot will be stated separately)
 
-All of these plugins were created in Java by the Eclipse Workspace solely for Minecraft purposes.
+All of these plugins were created in Java by the Eclipse Workspace solely for Minecraft purposes. See [Workspace Details](#workspace-details) for more information.
 
 ### Table of Contents
 
@@ -13,9 +13,10 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 2. [Lookup Table](#lookup-table)
 3. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
 4. [Connections](#connections)
-5. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
-6. [License Details](#license-details)
-7. [License](#license)
+5. [Workspace Details](#workspace-details)
+6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
+7. [License Details](#license-details)
+8. [License](#license)
 
 ### How to Use
 
@@ -51,6 +52,19 @@ Reload Recommended Before Start: :white_check_mark:
 - [Twitch](https://www.twitch.tv/notfirsttry)
 - [YouTube Archive](https://www.youtube.com/channel/UCvErjJxLRFq4t9d4iydRLVQ)
 - [Discord](https://discord.com/invite/Hg6aaqkzBy)
+
+### Workspace Details
+
+All of these projects were created in the Eclipse Workspace, in Java, for Minecraft Java edition. - [Eclipse Download](https://www.eclipse.org/downloads/)
+
+Java JDK versions are NOT specified in this repository, but should not impact gameplay as long as the server is on its correct version.
+JDK versions are generally, but not limited to, the following:
+- JavaSE-1.7
+- JavaSE-1.8
+- J2SE-1.5
+
+All files are edited in the Eclipse Workspace including: `.java`, `.jar`, `.yml`, `.xml`
+Eclipse automatically compresses `.classpath` and `.project` files into the plugin's `.jar` file. This should not effect gameplay.
 
 ### Source Code and Jar File Usage Guidelines
 
@@ -743,4 +757,4 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<sub>This page was last edited on 01/27/21 @ 1:47PM</sub>
+<sub>This page was last edited on 01/28/21 @ 2:32PM</sub>
