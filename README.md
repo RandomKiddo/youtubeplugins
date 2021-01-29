@@ -761,6 +761,6 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-<b>[Back To Top](#youtube-plugins---readme.md)</b>
+<b>[Back To Top](#)</b>
 
 <sub>This page was last edited on 01/28/21 @ 8:11PM</sub>
