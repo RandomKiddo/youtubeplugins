@@ -66,7 +66,7 @@ JDK versions are generally, but not limited to, the following:
 All files are edited in the Eclipse Workspace including: `.java`, `.jar`, `.yml`, `.xml`
 Eclipse automatically compresses `.classpath` and `.project` files into the plugin's `.jar` file. This should not effect gameplay.
 
-Bukkit and Spigot Server download links - [GetBukkit](https://getbukkit.org)
+Bukkit and Spigot Server download links - [GetBukkit](https://getbukkit.org) <br>
 Vanilla Minecraft Server download from minecraft.net - [Minecraft Vanilla](https://www.minecraft.net/en-us/download/server/)
 
 ### Source Code and Jar File Usage Guidelines
