@@ -11,6 +11,7 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 
 1. [How to Use](#how-to-use)
 2. [Lookup Table](#lookup-table)
+3. [Changelogs](#changelogs)
 4. [Connections](#connections)
 5. [Workspace Details](#workspace-details)
 6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
@@ -29,13 +30,19 @@ scroll to the plugin you need. In that sections, you should see the plugin name,
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
 | nickname1.4.jar    | Bukkit      | 1.16.5  | ✅ [NT, T]  | Not Applicable   | Not Applicable  | ✅                 |
-| intenseknockback1.4.jar| Bukkit  | 1.16.4, 1.16.5| ✅ [NT, T]|Not Applicable   | Not Applicable  | ✅                 |
+| intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ [NT, T]|Not Applicable   | Not Applicable  | ✅                 |
 <br>
 
 **KEY**:
 
 NT: Not Tested <br >
 T: Theoretical; Should Work Theoretically
+
+### Changelogs
+
+Last few days worth of changes (only major)
+
+> 1/30/21: Added IntenseKnockback, Updated From 1.4 To 1.5
 
 ### Connections
 
