@@ -11,19 +11,17 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 
 1. [How to Use](#how-to-use)
 2. [Lookup Table](#lookup-table)
-3. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
-4. [Nickname (nickname1.4.jar)](#nickname)
-4. [Intense Knockback (intenseknockback1.4.jar)](#intense-knockback)
 4. [Connections](#connections)
 5. [Workspace Details](#workspace-details)
 6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
+7. [On Edit Notice](#on-edit-notice)
 7. [License Details](#license-details)
 8. [License](#license)
 
 ### How to Use
 
 Navigate to the `Plugins` folder, and in that folder, find the file named `PluginDescriptions.md` (Quick Link : [Descriptions](https://github.com/RandomKiddo/youtubeplugins/blob/main/Plugins/PluginDescriptions.md)). Either by skimming, or using the table of contents,
-scroll to the plugin you need. In that sections, you should see the plugin name, a short description, version and server info, the name of the jar file, the name of the folder, and a quick link to the folder where the files are stored. Either by manually going to the folder named after the plugin, or by using the provided quick link, you will see a list of files in the folder. If you just want the plugin, click on the file ending in `.jar` and download it. From there you can put it in your server plugins folder and run it. If you want to edit the plugin, you can download any other `.java`, `.xml`, and `.yml` files. This repository and its creators are not responsible for anything that occurs when editing the plugin's source code. 
+scroll to the plugin you need. In that sections, you should see the plugin name, a short description, version and server info, the name of the jar file, the name of the folder, and a quick link to the folder where the files are stored, and other pertinent information. Either by manually going to the folder named after the plugin, or by using the provided quick link, you will see a list of files in the folder. If you just want the plugin, click on the file ending in `.jar` and download it. From there you can put it in your server plugins folder and run it. If you want to edit the plugin, you can download any other `.java`, `.xml`, and `.yml` files. This repository and its creators are not responsible for anything that occurs when editing the plugin's source code. 
 
 ### Lookup Table
 
@@ -38,39 +36,6 @@ scroll to the plugin you need. In that sections, you should see the plugin name,
 
 NT: Not Tested <br >
 T: Theoretical; Should Work Theoretically
-
-### Potion Repeater
-
-PotionRepeater is a client-side plugin that randomly applies a random potion effect to the player (not fully tested for multiple players, but should theoretically work) every minute. You may check the source file to edit and create a new jar.
-
-Intended Server Host: Bukkit (CraftBukkit) <br>
-Intended Version: 1.16.4 <br>
-Multiplayer: :x: (Untested, Should Work Theoretically) <br>
-Start Command: /startpotions <br>
-Stop Command: /stoppotions <br>
-Reload Recommended Before Start: :white_check_mark:
-
-### Nickname 
-
-Nickname is a client-side passive plugin that allows for nicknaming a user on a Bukkit server. It will change the name viewed in the chat, the name shown on death, and the name shown in the tab menu. This does not change the name for internal things, like on commands. 
-
-Intended Server Host: Bukkit (CraftBukkit) <br>
-Intended Version: 1.16.5 <br>
-Multiplayer: ✅ (Untested, Should Work Theoretically) <br>
-Start Command: Not Applicable <br>
-Stop Command: Not Applicable <br>
-Reload Recommended Before Start: :white_check_mark:
-
-### Intense Knockback
-
-IntenseKnockback is a client-side plugin that causes constant extreme speed and a huge knockback in the opposite vector direction when damage is taken.
-
-Intended Server Host: Bukkit (CraftBukkit) <br>
-Intended Version: 1.16.4, 1.16.5 <br>
-Multiplayer: ✅ (Untested, Should Work Theoretically) <br>
-Start Command: Not Applicable <br>
-Stop Command: Not Applicable <br>
-Reload Recommended Before Start: :white_check_mark:
 
 ### Connections
 
@@ -102,6 +67,17 @@ As specified by the GNU GPLv3 License, this repository is free use. Feel free to
 Please note that this repository is not responsible for any issues caused by editing the source code. Also, the source code package names will need to be changed according to your Eclipse Workspace Maven Project. This repository will not resolve any issues with trying to edit the jar or the source code; the `Issues` tab is solely meant for errors and bugs with the "as is" code seen in this repository. 
 
 Due to the fact that this repository is licensed by the GNU GPLv3 License, special requirements must be met upon re-distribution (if you choose to re-distribute modifications). See [License Details](#license-details) for more information.
+
+### On Edit Notice
+
+On editing of the source code, some changes must be made.
+
+The changes that must be made are as follows:
+- In the `.java` file: the line `package io.github.randomkiddo.*;` must be changed
+- In the `plugin.yml` file: the `main` line needs to be changed to the new main file package line, and the `author` line must be changed to 
+`authors` and place both your name plus `firsttry` (i.e., `authors: [firsttry, ...]` or. `authors: [..., firsttry]`)
+- In the `pom.xml` file: on line three, the attribute `groupId` must be changed, as well as the line after it called `artifactId` to their new respective
+values. Line 40 with the attribute `mainClass` must also be changed to its respective value.
 
 ### License Details
 
