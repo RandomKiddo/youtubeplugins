@@ -4,6 +4,7 @@
 
 1. [Potion Repeater](#potion-repeater)
 2. [Nickname](#nickname)
+3. [Intense Knockback](#intense-knockback)
 
 ### Potion Repeater
 
@@ -21,4 +22,12 @@ Folder Name: Nickname <br>
 Jar File Name: nickname1.4.jar <br>
 Quick Link: [Nickname](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Nickname)
 
-<sub>This page was last edited on 01/29/21 @ 7:53PM</sub>
+### Intense Knockback
+
+Description: A plugin that causes permanent extreme speed and intense knockback when damage is taken <br>
+Version: Bukkit 1.16.4, 1.16.5 <br>
+Folder Name: Intense Knockback <br>
+Jar File Name: intenseknockback1.4.jar <br>
+Quick Link: [Intense Knockback](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Intense%20Knockback)
+
+<sub>This page was last edited on 01/29/21 @ 10:30PM</sub>
