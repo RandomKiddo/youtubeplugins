@@ -13,6 +13,7 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 2. [Lookup Table](#lookup-table)
 3. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
 4. [Nickname (nickname1.4.jar)](#nickname)
+4. [Intense Knockback (intenseknockback1.4.jar)](#intense-knockback)
 4. [Connections](#connections)
 5. [Workspace Details](#workspace-details)
 6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
@@ -30,6 +31,7 @@ scroll to the plugin you need. In that sections, you should see the plugin name,
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
 | nickname1.4.jar    | Bukkit      | 1.16.5  | ✅ [NT, T]  | Not Applicable   | Not Applicable  | ✅                 |
+| intenseknockback1.4.jar| Bukkit  | 1.16.4, 1.16.5| ✅ [NT, T]|Not Applicable   | Not Applicable  | ✅                 |
 <br>
 
 **KEY**:
@@ -54,6 +56,17 @@ Nickname is a client-side passive plugin that allows for nicknaming a user on a 
 
 Intended Server Host: Bukkit (CraftBukkit) <br>
 Intended Version: 1.16.5 <br>
+Multiplayer: ✅ (Untested, Should Work Theoretically) <br>
+Start Command: Not Applicable <br>
+Stop Command: Not Applicable <br>
+Reload Recommended Before Start: :white_check_mark:
+
+### Intense Knockback
+
+IntenseKnockback is a client-side plugin that causes constant extreme speed and a huge knockback in the opposite vector direction when damage is taken.
+
+Intended Server Host: Bukkit (CraftBukkit) <br>
+Intended Version: 1.16.4, 1.16.5 <br>
 Multiplayer: ✅ (Untested, Should Work Theoretically) <br>
 Start Command: Not Applicable <br>
 Stop Command: Not Applicable <br>
@@ -776,4 +789,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 01/29/21 @ 7:57PM</sub>
+<sub>This page was last edited on 01/29/21 @ 10:33PM</sub>
