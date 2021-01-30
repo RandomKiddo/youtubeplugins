@@ -42,7 +42,7 @@ Start Command: Not Applicable <br>
 Stop Command: Not Applicable <br>
 Reload Recommended Before Start: :white_check_mark: <br>
 Folder Name: Intense Knockback <br>
-Jar File Name: intenseknockback1.4.jar <br>
+Jar File Name: intenseknockback1.5.jar <br>
 Quick Link: [Intense Knockback](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Intense%20Knockback)
 
-<sub>This page was last edited on 01/30/21 @ 12:26PM</sub>
+<sub>This page was last edited on 01/30/21 @ 3:45PM</sub>
