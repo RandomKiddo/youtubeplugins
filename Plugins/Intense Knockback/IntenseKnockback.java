@@ -22,6 +22,9 @@ public class IntenseKnockback extends JavaPlugin implements Listener {
 		Bukkit.getServer().getScheduler().scheduleSyncRepeatingTask(this, new Runnable() {
 			public void run() {
 				for (Player player : IntenseKnockback.players) {
+					player.removePotionEffect(PotionEffectType.SPEED);
+				}
+				for (Player player : IntenseKnockback.players) {
 					PotionEffect speed = new PotionEffect(
 						PotionEffectType.SPEED,
 						1200,
