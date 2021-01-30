@@ -40,7 +40,7 @@ T: Theoretical; Should Work Theoretically
 
 ### Changelogs
 
-Last few days worth of changes (only major)
+Last few days worth of changes (only major). - [Complete Changelog](https://github.com/RandomKiddo/youtubeplugins/blob/main/Changelogs.md)
 
 > 1/30/21: Added IntenseKnockback, Updated From 1.4 To 1.5
 
@@ -772,4 +772,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 01/30/21 @ 3:49PM</sub>
+<sub>This page was last edited on 01/30/21 @ 3:50PM</sub>
