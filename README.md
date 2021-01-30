@@ -12,6 +12,7 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 1. [How to Use](#how-to-use)
 2. [Lookup Table](#lookup-table)
 3. [Potion Repeater (potionrepeater.jar)](#potion-repeater)
+4. [Nickname (nickname1.4.jar)](#nickname)
 4. [Connections](#connections)
 5. [Workspace Details](#workspace-details)
 6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
@@ -28,6 +29,7 @@ scroll to the plugin you need. In that sections, you should see the plugin name,
 | Plugin             | Server Host | Version | Multiplayer | Start Command    | Stop Command    | Reload Recommended |
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
+| nickname1.4.jar    | Bukkit      | 1.16.5  | ✅ [NT, T]  | Not Applicable   | Not Applicable  | ✅                 |
 <br>
 
 **KEY**:
@@ -44,6 +46,17 @@ Intended Version: 1.16.4 <br>
 Multiplayer: :x: (Untested, Should Work Theoretically) <br>
 Start Command: /startpotions <br>
 Stop Command: /stoppotions <br>
+Reload Recommended Before Start: :white_check_mark:
+
+### Nickname 
+
+Nickname is a client-side passive plugin that allows for nicknaming a user on a Bukkit server. It will change the name viewed in the chat, the name shown on death, and the name shown in the tab menu. This does not change the name for internal things, like on commands. 
+
+Intended Server Host: Bukkit (CraftBukkit) <br>
+Intended Version: 1.16.5 <br>
+Multiplayer: ✅ (Untested, Should Work Theoretically) <br>
+Start Command: Not Applicable <br>
+Stop Command: Not Applicable <br>
 Reload Recommended Before Start: :white_check_mark:
 
 ### Connections
@@ -763,4 +776,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 01/28/21 @ 8:11PM</sub>
+<sub>This page was last edited on 01/29/21 @ 7:57PM</sub>
