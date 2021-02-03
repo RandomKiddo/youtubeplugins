@@ -82,7 +82,7 @@ On editing of the source code, some changes must be made.
 The changes that must be made are as follows:
 - In the `.java` file: the line `package io.github.randomkiddo.*;` must be changed
 - In the `plugin.yml` file: the `main` line needs to be changed to the new main file package line, and the `author` line must be changed to 
-`authors` and place both your name plus `firsttry` (i.e., `authors: [firsttry, ...]` or. `authors: [..., firsttry]`)
+`authors` and place both your name plus `firsttry` (i.e., `authors: [firsttry, ...]` or `authors: [..., firsttry]`)
 - In the `pom.xml` file: on line three, the attribute `groupId` must be changed, as well as the line after it called `artifactId` to their new respective
 values. Line 40 with the attribute `mainClass` must also be changed to its respective value.
 
@@ -772,4 +772,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 02/03/21 @ 12:47PM</sub>
+<sub>This page was last edited on 02/03/21 @ 12:49PM</sub>
