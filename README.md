@@ -11,7 +11,7 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 
 1. [How to Use](#how-to-use)
 2. [Lookup Table](#lookup-table)
-3. [Changelogs](#changelogs)
+3. [Abbreviated Changelog](#abbreviated-changelog)
 4. [Connections](#connections)
 5. [Workspace Details](#workspace-details)
 6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
@@ -38,7 +38,7 @@ scroll to the plugin you need. In that sections, you should see the plugin name,
 NT: Not Tested <br >
 T: Theoretical; Should Work Theoretically
 
-### Changelogs
+### Abbreviated Changelog
 
 Last few days worth of changes (only major). - [Complete Changelog](https://github.com/RandomKiddo/youtubeplugins/blob/main/Changelogs.md)
 
@@ -772,4 +772,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 02/03/21 @ 12:46PM</sub>
+<sub>This page was last edited on 02/03/21 @ 12:47PM</sub>
