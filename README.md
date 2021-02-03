@@ -26,11 +26,11 @@ scroll to the plugin you need. In that sections, you should see the plugin name,
 
 ### Lookup Table
 
-| Plugin             | Server Host | Version | Multiplayer | Start Command    | Stop Command    | Reload Recommended |
+| Plugin             | Server Host | Version | Multiplayer | Start Command    | Stop Command    | Reload  |
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
-| nickname1.4.jar    | Bukkit      | 1.16.5  | ✅ [NT, T]  | Not Applicable   | Not Applicable  | ✅                 |
-| intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ [NT, T]|Not Applicable   | Not Applicable  | ✅                 |
+| nickname1.4.jar    | Bukkit      | 1.16.5  | ✅ [NT, T]  | N/A   | N/A  | ✅                 |
+| intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ [NT, T]|N/A   | N/A  | ✅                 |
 <br>
 
 **KEY**:
@@ -772,4 +772,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 01/30/21 @ 3:50PM</sub>
+<sub>This page was last edited on 02/03/21 @ 12:46PM</sub>
