@@ -41,6 +41,7 @@ T: Theoretical; Should Work Theoretically
 
 Last few days worth of changes (only major). - [Complete Changelog](https://github.com/RandomKiddo/youtubeplugins/blob/main/Changelogs.md)
 
+> 2/08/21: Removed Nickname Plugin
 > 1/30/21: Added IntenseKnockback, Updated From 1.4 To 1.5
 
 ### Connections
@@ -771,4 +772,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 02/08/21 @ 2:02PM</sub>
+<sub>This page was last edited on 02/08/21 @ 2:05PM</sub>
