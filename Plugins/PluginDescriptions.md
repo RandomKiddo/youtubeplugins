@@ -31,4 +31,4 @@ Folder Name: Intense Knockback <br>
 Jar File Name: intenseknockback1.5.jar <br>
 Quick Link: [Intense Knockback](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Intense%20Knockback)
 
-<sub>This page was last edited on 02/03/21 @ 12:49PM</sub>
+<sub>This page was last edited on 02/05/21 @ 2:02PM</sub>
