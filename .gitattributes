@@ -1,6 +1,0 @@
-*.jar linguist-language=Java
-*.java linguist-language=Java
-
-*.xml linguist-language=XML
-
-*.yml linguist-language=YAML
