@@ -3,7 +3,8 @@
 ### Table of Contents
 
 1. [Potion Repeater](#potion-repeater)
-3. [Intense Knockback](#intense-knockback)
+2. [Intense Knockback](#intense-knockback)
+3. [Custom Compass](#custom-compass)
 
 ### Potion Repeater
 
@@ -33,4 +34,17 @@ Folder Name: Intense Knockback <br>
 Jar File Name: intenseknockback1.5.jar <br>
 Quick Link: [Intense Knockback](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Intense%20Knockback)
 
-<sub>This page was last edited on 02/10/21 @ 11:10AM</sub>
+### Custom Compass
+
+Description: A plugin developed for Minecraft Manhunt that will track the runner <br>
+Intended Server Host: Bukkit (CraftBukkit) <br>
+Intended Version: 1.16.5 <br>
+Multiplayer: ✅ <br>
+Start Command: /speedrunner [runner] <br>
+Stop Command: Not Applicable <br>
+Reload Recommended Before Start: :white_check_mark: (Note that the start command should be used after the reload) <br>
+Folder Name: Custom Compass <br>
+Jar File Name: customcompass1.0.jar <br>
+Quick Link: [Custom Compass](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Custom%20Compass)
+
+<sub>This page was last edited on 03/26/21 @ 7:21PM</sub>
