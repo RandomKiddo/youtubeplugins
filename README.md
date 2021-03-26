@@ -30,6 +30,7 @@ scroll to the plugin you need. In that sections, you should see the plugin name,
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
 | intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ |N/A   | N/A  | ✅                 |
+| customcompass1.0.jar| Bukkit | 1.16.15 | ✅ | /speedrunner [runner]| N/A | ✅ |
 <br>
 
 **KEY**:
@@ -41,6 +42,7 @@ T: Theoretical; Should Work Theoretically
 
 Last few days worth of changes (only major). - [Complete Changelog](https://github.com/RandomKiddo/youtubeplugins/blob/main/Changelogs.md)
 
+> 3/26/21: Added Custom Compass Plugin <br>
 > 2/08/21: Removed Nickname Plugin <br>
 > 1/30/21: Added IntenseKnockback, Updated From 1.4 To 1.5
 
@@ -772,4 +774,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 02/08/21 @ 2:05PM</sub>
+<sub>This page was last edited on 03/26/21 @ 7:17PM</sub>
