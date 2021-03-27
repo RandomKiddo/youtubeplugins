@@ -22,7 +22,7 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 ### How to Use
 
 Navigate to the `Plugins` folder, and in that folder, find the file named `PluginDescriptions.md` (Quick Link : [Descriptions](https://github.com/RandomKiddo/youtubeplugins/blob/main/Plugins/PluginDescriptions.md)). Either by skimming, or using the table of contents,
-scroll to the plugin you need. In that sections, you should see the plugin name, a short description, version and server info, the name of the jar file, the name of the folder, and a quick link to the folder where the files are stored, and other pertinent information. Either by manually going to the folder named after the plugin, or by using the provided quick link, you will see a list of files in the folder. If you just want the plugin, click on the file ending in `.jar` and download it. From there you can put it in your server plugins folder and run it. If you want to edit the plugin, you can download any other `.java`, `.xml`, and `.yml` files. This repository and its creators are not responsible for anything that occurs when editing the plugin's source code. 
+scroll to the plugin you need. In that sections, you should see the plugin name, a short description, version and server info, the name of the jar file, the name of the folder, and a quick link to the folder where the files are stored, and other pertinent information. Either by manually going to the folder named after the plugin, or by using the provided quick link, you will see a list of files in the folder. If you just want the plugin, click on the file ending in `.jar` and download it. From there you can put it in your server plugins folder and run it. If you want to edit the plugin, you can download any other `.java`, `.xml`, and `.yml` files. This repository and its creators are not responsible for anything that occurs when editing the plugin's source code. You can also download `.jar` files in the [Release](https://github.com/RandomKiddo/youtubeplugins/releases) section.
 
 ### Lookup Table
 
@@ -774,4 +774,4 @@ Public License instead of this License.  But first, please read
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 03/26/21 @ 7:17PM</sub>
+<sub>This page was last edited on 03/26/21 @ 1:32PM</sub>
