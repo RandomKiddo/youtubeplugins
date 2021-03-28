@@ -7,6 +7,8 @@ Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) 
 
 All of these plugins were created in Java by the Eclipse Workspace solely for Minecraft purposes. See [Workspace Details](#workspace-details) for more information.
 
+___
+
 ### Table of Contents
 
 1. [How to Use](#how-to-use)
@@ -19,10 +21,14 @@ All of these plugins were created in Java by the Eclipse Workspace solely for Mi
 7. [License Details](#license-details)
 8. [License](#license)
 
+___
+
 ### How to Use
 
 Navigate to the `Plugins` folder, and in that folder, find the file named `PluginDescriptions.md` (Quick Link : [Descriptions](https://github.com/RandomKiddo/youtubeplugins/blob/main/Plugins/PluginDescriptions.md)). Either by skimming, or using the table of contents,
 scroll to the plugin you need. In that sections, you should see the plugin name, a short description, version and server info, the name of the jar file, the name of the folder, and a quick link to the folder where the files are stored, and other pertinent information. Either by manually going to the folder named after the plugin, or by using the provided quick link, you will see a list of files in the folder. If you just want the plugin, click on the file ending in `.jar` and download it. From there you can put it in your server plugins folder and run it. If you want to edit the plugin, you can download any other `.java`, `.xml`, and `.yml` files. This repository and its creators are not responsible for anything that occurs when editing the plugin's source code. You can also download `.jar` files in the [Release](https://github.com/RandomKiddo/youtubeplugins/releases) section.
+
+___
 
 ### Lookup Table
 
@@ -30,13 +36,16 @@ scroll to the plugin you need. In that sections, you should see the plugin name,
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
 | intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ |N/A   | N/A  | ✅                 |
-| customcompass1.0.jar| Bukkit | 1.16.15 | ✅ | /speedrunner [runner]| N/A | ✅ |
+| customcompass1.0.jar [P] | Bukkit | 1.16.15 | ✅ | /speedrunner [runner]| N/A | ✅ |
 <br>
 
 **KEY**:
 
 NT: Not Tested <br >
 T: Theoretical; Should Work Theoretically
+P: Pre-Release
+
+___
 
 ### Abbreviated Changelog
 
@@ -46,12 +55,16 @@ Last few days worth of changes (only major). - [Complete Changelog](https://gith
 > 2/08/21: Removed Nickname Plugin <br>
 > 1/30/21: Added IntenseKnockback, Updated From 1.4 To 1.5
 
+___
+
 ### Connections
 
 - [YouTube](https://www.youtube.com/channel/UCqORid7DP0chFER0SkjCb1A)
 - [Twitch](https://www.twitch.tv/notfirsttry)
 - [YouTube Archive](https://www.youtube.com/channel/UCvErjJxLRFq4t9d4iydRLVQ)
 - [Discord](https://discord.com/invite/Hg6aaqkzBy)
+
+___
 
 ### Workspace Details
 
@@ -69,6 +82,8 @@ Eclipse automatically compresses `.classpath` and `.project` files into the plug
 Bukkit and Spigot Server download links - [GetBukkit](https://getbukkit.org) <br>
 Vanilla Minecraft Server download from minecraft.net - [Minecraft Vanilla](https://www.minecraft.net/en-us/download/server/)
 
+___
+
 ### Source Code and Jar File Usage Guidelines
 
 As specified by the GNU GPLv3 License, this repository is free use. Feel free to download any file here and use it as you wish, or fork the repository and do what you want after that, all free of charge! The jar files can be downloaded and used in your Minecraft worlds, or you can download the source code files in the folder and edit them if you wish. 
@@ -76,6 +91,8 @@ As specified by the GNU GPLv3 License, this repository is free use. Feel free to
 Please note that this repository is not responsible for any issues caused by editing the source code. Also, the source code package names will need to be changed according to your Eclipse Workspace Maven Project. This repository will not resolve any issues with trying to edit the jar or the source code; the `Issues` tab is solely meant for errors and bugs with the "as is" code seen in this repository. 
 
 Due to the fact that this repository is licensed by the GNU GPLv3 License, special requirements must be met upon re-distribution (if you choose to re-distribute modifications). See [License Details](#license-details) for more information.
+
+___
 
 ### On Edit Notice
 
@@ -88,12 +105,16 @@ The changes that must be made are as follows:
 - In the `pom.xml` file: on line three, the attribute `groupId` must be changed, as well as the line after it called `artifactId` to their new respective
 values. Line 40 with the attribute `mainClass` must also be changed to its respective value.
 
+___
+
 ### License Details
 
 This repository is protected by the GNU GPLv3 License for any content created in the 2020-2021 timeline. The GNU GPLv3 License states that this repository is free-to-use, either commercially or privately, and all content within it can be modified and re-distributed. The license also gives explicit patent rights to this repository's owners. The GNU GPLv3 License also states that upon re-distribution of any modified content that pertains to this repository, said distribution must be licensed under the same GNU GPLv3 License, the source code of the modified content must be released (aka open-source), the license file must be kept with the distribution, and all changes must be documented within the distribution.
 
 Also, the GNU GPLv3 License protects this repository's creators from liability. For more information, see [`LiabilityWarning.md`](https://github.com/RandomKiddo/youtubeplugins/blob/main/LiabilityWarning.md). This GNU GPLv3 License also protects this repository's creators from warranty
 claims.
+
+___
 
 ### License
 
@@ -772,6 +793,8 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
+___
+
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 03/26/21 @ 1:32PM</sub>
+<sub>This page was last edited on 03/28/21 @ 11:38AM</sub>
