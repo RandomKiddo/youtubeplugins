@@ -49,9 +49,9 @@ ___
 
 ### Abbreviated Changelog
 
-Last few days worth of changes (only major). - [Complete Changelog](https://github.com/RandomKiddo/youtubeplugins/blob/main/Changelogs.md)
+Last few days worth of changes (only major). - [Complete Changelog](https://github.com/RandomKiddo/youtubeplugins/blob/main/Changelog.md)
 
-> 3/26/21: Added Custom Compass Plugin <br>
+> 3/26/21: Added Custom Compass Plugin (Pre-Release) <br>
 > 2/08/21: Removed Nickname Plugin <br>
 > 1/30/21: Added IntenseKnockback, Updated From 1.4 To 1.5
 
@@ -797,4 +797,4 @@ ___
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 03/28/21 @ 11:38AM</sub>
+<sub>This page was last edited on 03/28/21 @ 11:39AM</sub>
