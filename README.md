@@ -13,7 +13,6 @@ ___
 
 1. [How to Use](#how-to-use)
 2. [Lookup Table](#lookup-table)
-3. [Abbreviated Changelog](#abbreviated-changelog)
 4. [Connections](#connections)
 5. [Workspace Details](#workspace-details)
 6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
@@ -43,16 +42,6 @@ ___
 NT: Not Tested <br>
 T: Theoretical; Should Work Theoretically <br>
 P: Pre-Release
-
-___
-
-### Abbreviated Changelog
-
-Last few days worth of changes (only major). - [Complete Changelog](https://github.com/RandomKiddo/youtubeplugins/blob/main/Changelog.md)
-
-> 3/26/21: Added Custom Compass Plugin (Pre-Release) <br>
-> 2/08/21: Removed Nickname Plugin <br>
-> 1/30/21: Added IntenseKnockback, Updated From 1.4 To 1.5
 
 ___
 
