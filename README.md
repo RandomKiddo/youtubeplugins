@@ -36,7 +36,6 @@ ___
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
 | intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ |N/A   | N/A  | ✅                 |
-| customcompass1.0.jar [P] | Bukkit | 1.16.15 | ✅ | /speedrunner [runner]| N/A | ✅ |
 <br>
 
 **KEY**:
@@ -797,4 +796,4 @@ ___
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 03/28/21 @ 3:20PM</sub>
+<sub>This page was last edited on 04.18.2021</sub>
