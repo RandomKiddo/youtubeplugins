@@ -1,5 +1,8 @@
 # YouTube Plugins - README.md
 
+[![License](https://img.shields.io/github/license/RandomKiddo/youtubeplugins)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![Codacy Security Scan](https://github.com/RandomKiddo/youtubeplugins/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/RandomKiddo/youtubeplugins/actions/workflows/codacy-analysis.yml)
+
 The `youtubeplugins` repository is a free-use repository under the GNU GPLv3 License (See [License](#license) section for more details, or [License Details](#license-details) for an abbreviated version). You may do whatever you wish with the jar or source code, but please give credit if possible! :D <br>
 All of the plugins here can be downloaded for free for use with your own hosted server. Please check this README or the `PluginDescriptions.md` file for more information on what files correspond to what, and their respective versions. <br> <br>
 
