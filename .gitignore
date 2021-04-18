@@ -23,4 +23,8 @@
 hs_err_pid*
 
 # mac
-.DS_Store
+*.DS_Store
+
+# ide
+*/test/
+*/target/
