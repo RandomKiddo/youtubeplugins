@@ -18,7 +18,7 @@ ___
 ### Code of Conduct
 
 Dungeons enforces an abbreviated version of the Contributor Covenant Code of Conduct.
-For more information, either see: https://www.contributor-covenant.org or [Code of Conduct](https://github.com/RandomKiddo/youtubeplugins/master/CODE_OF_CONDUCT.md)
+For more information, either see: [Contributor Covenant](https://www.contributor-covenant.org) or [Code of Conduct](https://github.com/RandomKiddo/youtubeplugins/master/CODE_OF_CONDUCT.md)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 ### License Notice
 
 Note that all changes made must comply with the GNU GPLv3 License. 
-For more information, either see: https://www.gnu.org/licenses/gpl-3.0.en.html or [License](https://github.com/RandomKiddo/youtubeplugins/main/LICENSE)
+For more information, either see: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or [License](https://github.com/RandomKiddo/youtubeplugins/main/LICENSE)
 
 ___
 
