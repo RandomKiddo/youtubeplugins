@@ -18,7 +18,7 @@ ___
 ### Code of Conduct
 
 Dungeons enforces an abbreviated version of the Contributor Covenant Code of Conduct.
-For more information, either see: https://www.contributor-covenant.org or [Code of Conduct](https://github.com/RandomKiddo/Dungeons/master/CODE_OF_CONDUCT.md)
+For more information, either see: https://www.contributor-covenant.org or [Code of Conduct](https://github.com/RandomKiddo/youtubeplugins/master/CODE_OF_CONDUCT.md)
 
 ___
 
@@ -46,10 +46,10 @@ ___
 
 ### Opening a Pull Request
 
-All contributions will be done through forking and pull requests. Please follow the [pull request template](#https://github.com/RandomKiddo/Dungeons/master/.github/pull_request_template.md) when opening a pull request. Follow the guidelines, and if passed, the code will be merged to the `master` branch. Please make sure all testing was done before opening a pull request. Untested material will `NOT` be merged!
+All contributions will be done through forking and pull requests. Please follow the [pull request template](#https://github.com/RandomKiddo/youtubeplugins/master/.github/pull_request_template.md) when opening a pull request. Follow the guidelines, and if passed, the code will be merged to the `master` branch. Please make sure all testing was done before opening a pull request. Untested material will `NOT` be merged!
 
 ___
 
 [Back to Top](#contribution-to-youtube-plugins)
 
-<sub>This page was last edited on 04.18.2021</sub>
+<sub>This page was last edited on 04.20.2021</sub>
