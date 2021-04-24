@@ -4,6 +4,7 @@
 
 1. [Potion Repeater](#potion-repeater)
 2. [Intense Knockback](#intense-knockback)
+3. [Mob Switch](#mob-switch)
 
 ### Potion Repeater
 
@@ -33,4 +34,16 @@ Folder Name: Intense Knockback <br>
 Jar File Name: intenseknockback1.5.jar <br>
 Quick Link: [Intense Knockback](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Intense%20Knockback)
 
-<sub>This page was last edited on 04.18.2021</sub>
+### Mob Switch
+
+Description: A plugin that switches the meta data on mobs, making spawns of certain mobs swap with other mobs <br>
+Intended Server Host: Bukkit (CraftBukkit) <br>
+Multiplayer: :x: (Untested, Should Work Theoretically) <br>
+Start Command: Not Applicable <br>
+Stop Command: Not Applicable <br>
+Reload Recommended Before Start: :white_check_mark: <br>
+Folder Name: MobSwitch <br>
+Jar File Name: mobswitch1.0.jar <br>
+Quick Link: [Intense Knockback](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Mob%Switch)
+
+<sub>This page was last edited on 04.24.2021</sub>
