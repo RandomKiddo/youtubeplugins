@@ -13,7 +13,7 @@ Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) 
 All of these plugins were created in Java by the Eclipse Workspace solely for Minecraft purposes. See [Workspace Details](#workspace-details) for more information.
 
 **The latest stable branch is `main`** - [main](https://github.com/RandomKiddo/youtubeplugins) <br>
-**The latest pre-release branch is `msw1.0_pr`** - [msw1.0_pr](https://github.com/RandomKiddo/youtubeplugins/tree/msw1.0_pr)
+**The latest pre-release branch is `msw1.1_pr`** - [msw1.1_pr](https://github.com/RandomKiddo/youtubeplugins/tree/msw1.1_pr)
 
 ___
 
