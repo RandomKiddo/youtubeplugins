@@ -41,7 +41,8 @@ public class MobSwitch extends JavaPlugin implements Listener {
     			EntityType.SMALL_FIREBALL, EntityType.SNOWBALL,
     			EntityType.SPECTRAL_ARROW, EntityType.SPLASH_POTION,
     			EntityType.THROWN_EXP_BOTTLE, EntityType.UNKNOWN,
-    			EntityType.WITHER_SKULL
+    			EntityType.WITHER_SKULL,
+    			EntityType.WITHER, EntityType.ENDER_DRAGON // Player & Server Protections
     	};
     	for (EntityType type : notMobs) {
     		if (check == type) {
