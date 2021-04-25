@@ -36,13 +36,13 @@ ___
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
 | intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ |N/A   | N/A  | ✅                 |
+| mobswitch1.5.jar | Bukkit | 1.16.5 | :x: [NT, T] | N/A | N/A | ✅|
 <br>
 
 **KEY**:
 
 NT: Not Tested <br>
 T: Theoretical; Should Work Theoretically <br>
-P: Pre-Release
 
 ___
 
@@ -759,4 +759,4 @@ ___
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 04.24.2021</sub>
+<sub>This page was last edited on 04.25.2021</sub>
