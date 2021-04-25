@@ -34,9 +34,9 @@ ___
 
 | Plugin             | Server Host | Version | Multiplayer | Start Command    | Stop Command    | Reload  |
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
-| potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
+| potionrepeater.jar | Bukkit      | 1.16.4  | :x: (NT, T) | /startpotions    | /stoppotions    | ✅                 |
 | intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ |N/A   | N/A  | ✅                 |
-| mobswitch1.6.jar | Bukkit | 1.16.5 | :x: [NT, T] | N/A | N/A | ✅|
+| mobswitch1.6.jar | Bukkit | 1.16.5 | :x: (NT, T) | N/A | N/A | ✅|
 <br>
 
 **KEY**:
