@@ -12,17 +12,12 @@ Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) 
 
 All of these plugins were created in Java by the Eclipse Workspace solely for Minecraft purposes. See [Workspace Details](#workspace-details) for more information.
 
-**The latest stable branch is `main`** - [main](https://github.com/RandomKiddo/youtubeplugins) <br>
-**The latest pre-release branch is `msw1.1_pr`** - [msw1.1_pr](https://github.com/RandomKiddo/youtubeplugins/tree/msw1.1_pr)
-
 ___
 
 ### Table of Contents
 
 1. [How to Use](#how-to-use)
 2. [Lookup Table](#lookup-table)
-4. [Connections](#connections)
-5. [Workspace Details](#workspace-details)
 6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
 7. [On Edit Notice](#on-edit-notice)
 7. [License Details](#license-details)
@@ -43,6 +38,7 @@ ___
 | ------------------ | ----------- | ------- | ----------- | ---------------- | --------------- | ------------------ |
 | potionrepeater.jar | Bukkit      | 1.16.4  | :x: [NT, T] | /startpotions    | /stoppotions    | ✅                 |
 | intenseknockback1.5.jar| Bukkit  | 1.16.4, 1.16.5| ✅ |N/A   | N/A  | ✅                 |
+| mobswitch1.3.jar | Bukkit | 1.16.5 | :x: [NT, T, P] | N/A | N/A | ✅ |
 <br>
 
 **KEY**:
@@ -50,33 +46,6 @@ ___
 NT: Not Tested <br>
 T: Theoretical; Should Work Theoretically <br>
 P: Pre-Release
-
-___
-
-### Connections
-
-- [YouTube](https://www.youtube.com/channel/UCqORid7DP0chFER0SkjCb1A)
-- [Twitch](https://www.twitch.tv/notfirsttry)
-- [YouTube Archive](https://www.youtube.com/channel/UCvErjJxLRFq4t9d4iydRLVQ)
-- [Discord](https://discord.com/invite/Hg6aaqkzBy)
-
-___
-
-### Workspace Details
-
-All of these projects were created in the Eclipse Workspace, in Java, for Minecraft Java edition. - [Eclipse Download](https://www.eclipse.org/downloads/)
-
-Java JDK versions are NOT specified in this repository, but should not impact gameplay as long as the server is on its correct version.
-JDK versions are generally, but not limited to, the following:
-- JavaSE-1.7
-- JavaSE-1.8
-- J2SE-1.5
-
-All files are edited in the Eclipse Workspace including: `.java`, `.jar`, `.yml`, `.xml`
-Eclipse automatically compresses `.classpath` and `.project` files into the plugin's `.jar` file. This should not effect gameplay.
-
-Bukkit and Spigot Server download links - [GetBukkit](https://getbukkit.org) <br>
-Vanilla Minecraft Server download from minecraft.net - [Minecraft Vanilla](https://www.minecraft.net/en-us/download/server/)
 
 ___
 
