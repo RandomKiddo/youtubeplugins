@@ -5,5 +5,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Describe, in a short sentence, what this pull attempts to solve
 - Make sure your request/suggestion is not a duplicate
 - Please do not heavily change the project layout in a pull
+- Make sure all checks pass from Mergify, Automation Actions, and Codacy Security Scan
+- Make sure all code is tested, built, and working before attempting a merge
+- Pull upstream if needed
 
 Thanks for your contribution!
