@@ -10,6 +10,8 @@ All of the plugins here can be downloaded for free for use with your own hosted 
 
 Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) server jar unless otherwise stated (Paper and others will be stated separately)
 
+**If you are having bugs, see the `Issues` tab. If you are having other problems that aren't bugs, see the `Wiki` tab**
+
 ___
 
 ### Table of Contents
