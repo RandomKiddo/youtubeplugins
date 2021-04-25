@@ -10,7 +10,7 @@ All of the plugins here can be downloaded for free for use with your own hosted 
 
 Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) server jar unless otherwise stated (Paper and others will be stated separately)
 
-**If you are having bugs, see the `Issues` tab. If you are having other problems that aren't bugs, see the `Wiki` tab**
+**If you are having bugs, see the `Issues` tab. If you are having other problems that aren't bugs, or want to edit the plugins, see the `Wiki` tab**
 
 ___
 
@@ -18,10 +18,8 @@ ___
 
 1. [How to Use](#how-to-use)
 2. [Lookup Table](#lookup-table)
-6. [Source Code and Jar File Usage Guidelines](#source-code-and-jar-file-usage-guidelines)
-7. [On Edit Notice](#on-edit-notice)
-7. [License Details](#license-details)
-8. [License](#license)
+3. [License Details](#license-details)
+4. [License](#license)
 
 ___
 
@@ -45,29 +43,6 @@ ___
 
 NT: Not Tested <br>
 T: Theoretical; Should Work Theoretically <br>
-
-___
-
-### Source Code and Jar File Usage Guidelines
-
-As specified by the GNU GPLv3 License, this repository is free use. Feel free to download any file here and use it as you wish, or fork the repository and do what you want after that, all free of charge! The jar files can be downloaded and used in your Minecraft worlds, or you can download the source code files in the folder and edit them if you wish. 
-
-Please note that this repository is not responsible for any issues caused by editing the source code. Also, the source code package names will need to be changed according to your Eclipse Workspace Maven Project. This repository will not resolve any issues with trying to edit the jar or the source code; the `Issues` tab is solely meant for errors and bugs with the "as is" code seen in this repository. 
-
-Due to the fact that this repository is licensed by the GNU GPLv3 License, special requirements must be met upon re-distribution (if you choose to re-distribute modifications). See [License Details](#license-details) for more information.
-
-___
-
-### On Edit Notice
-
-On editing of the source code, some changes must be made.
-
-The changes that must be made are as follows:
-- In the `.java` file: the line `package io.github.randomkiddo.*;` must be changed
-- In the `plugin.yml` file: the `main` line needs to be changed to the new main file package line, and the `author` line must be changed to 
-`authors` and place both your name plus `firsttry` (i.e., `authors: [firsttry, ...]` or `authors: [..., firsttry]`)
-- In the `pom.xml` file: on line three, the attribute `groupId` must be changed, as well as the line after it called `artifactId` to their new respective
-values. Line 40 with the attribute `mainClass` must also be changed to its respective value.
 
 ___
 
