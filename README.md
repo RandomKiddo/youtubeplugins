@@ -8,9 +8,7 @@
 The `youtubeplugins` repository is a free-use repository under the GNU GPLv3 License (See [License](#license) section for more details, or [License Details](#license-details) for an abbreviated version). You may do whatever you wish with the jar or source code, but please give credit if possible! :D <br>
 All of the plugins here can be downloaded for free for use with your own hosted server. Please check this README or the `PluginDescriptions.md` file for more information on what files correspond to what, and their respective versions. <br> <br>
 
-Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) server jar unless otherwise stated (Paper or Spigot will be stated separately)
-
-All of these plugins were created in Java by the Eclipse Workspace solely for Minecraft purposes. See [Workspace Details](#workspace-details) for more information.
+Please note that all of these plugins run on the CraftBukkit (or simply Bukkit) server jar unless otherwise stated (Paper and others will be stated separately)
 
 ___
 
