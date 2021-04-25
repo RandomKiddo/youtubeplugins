@@ -44,7 +44,7 @@ Start Command: Not Applicable <br>
 Stop Command: Not Applicable <br>
 Reload Recommended Before Start: :white_check_mark: <br>
 Folder Name: Mob Switch <br>
-Jar File Name: mobswitch1.5.jar <br>
+Jar File Name: mobswitch1.6.jar <br>
 Quick Link: [Mob Switch](https://github.com/RandomKiddo/youtubeplugins/tree/main/Plugins/Mob%20Switch)
 
 <sub>This page was last edited on 04.25.2021</sub>
