@@ -50,8 +50,7 @@ ___
 
 This repository is protected by the GNU GPLv3 License for any content created in the 2020-2021 timeline. The GNU GPLv3 License states that this repository is free-to-use, either commercially or privately, and all content within it can be modified and re-distributed. The license also gives explicit patent rights to this repository's owners. The GNU GPLv3 License also states that upon re-distribution of any modified content that pertains to this repository, said distribution must be licensed under the same GNU GPLv3 License, the source code of the modified content must be released (aka open-source), the license file must be kept with the distribution, and all changes must be documented within the distribution.
 
-Also, the GNU GPLv3 License protects this repository's creators from liability. For more information, see [`LiabilityWarning.md`](https://github.com/RandomKiddo/youtubeplugins/blob/main/LiabilityWarning.md). This GNU GPLv3 License also protects this repository's creators from warranty
-claims.
+Also, the GNU GPLv3 License protects this repository's creators from liability when the source code is edited. This GNU GPLv3 License also protects this repository's creators from warranty claims. For more information, see the [License Section](#license) or [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ___
 
@@ -736,4 +735,4 @@ ___
 
 <b>[Back To Top](#)</b>
 
-<sub>This page was last edited on 04.25.2021</sub>
+<sub>This page was last edited on 04.26.2021</sub>
