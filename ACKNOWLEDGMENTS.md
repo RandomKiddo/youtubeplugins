@@ -28,7 +28,7 @@ ___
 
 Spigot is a Minecraft project which is used to create and host servers for multiplayer & plugin gameplay. It is mutually usable with Bukkit.
 
-Spigot is generally licensed under the [GNU GPLv3 License)(https://www.gnu.org/licenses/gpl-3.0.en.html)
+Spigot is generally licensed under the [GNU GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 More information can be found at: <br>
 [Spigot's Github Profile](https://github.com/SpigotMC) <br>
